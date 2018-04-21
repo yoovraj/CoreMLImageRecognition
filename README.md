@@ -13,3 +13,5 @@ Build, Install and enjoy
 ### This project was created by referring the following blog
 https://www.appcoda.com/coreml-introduction/
 
+![Snapshot](snapshot.png)
+
